@@ -20,20 +20,20 @@
 | [iSendServer][16] | 快速将ios截图发送到PC端|
 | [...][17] | ...|
 
-[1]: (https://github.com/mocobk/Android-Debug-Keyboard)
-[2]: (https://github.com/mocobk/mocklite)
-[3]: (https://github.com/mocobk/BeautifulReport)
-[4]: (https://github.com/mocobk/ilogger)
-[5]: (https://github.com/mocobk/pymock)
-[6]: (https://github.com/mocobk/pipfile-freeze)
-[7]: (https://github.com/mocobk/mp-qrcode-test)
-[8]: (https://github.com/mocobk/FlaskServer)
-[9]: (https://github.com/mocobk/mitmdump)
-[10]: (https://github.com/mocobk/MonlineWeb)
-[11]: (https://github.com/mocobk/big-bang)
-[12]: (https://github.com/mocobk/v-on-touch)
-[13]: (https://github.com/mocobk/testFilter)
-[14]: (https://github.com/mocobk/convert2request)
-[15]: (https://github.com/mocobk/MoClip)
-[16]: (https://github.com/mocobk/iSendServer)
-[17]: (https://github.com/mocobk)
+[1]: https://github.com/mocobk/Android-Debug-Keyboard
+[2]: https://github.com/mocobk/mocklite
+[3]: https://github.com/mocobk/BeautifulReport
+[4]: https://github.com/mocobk/ilogger
+[5]: https://github.com/mocobk/pymock
+[6]: https://github.com/mocobk/pipfile-freeze
+[7]: https://github.com/mocobk/mp-qrcode-test
+[8]: https://github.com/mocobk/FlaskServer
+[9]: https://github.com/mocobk/mitmdump
+[10]: https://github.com/mocobk/MonlineWeb
+[11]: https://github.com/mocobk/big-bang
+[12]: https://github.com/mocobk/v-on-touch
+[13]: https://github.com/mocobk/testFilter
+[14]: https://github.com/mocobk/convert2request
+[15]: https://github.com/mocobk/MoClip
+[16]: https://github.com/mocobk/iSendServer
+[17]: https://github.com/mocobk
